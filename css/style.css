@@ -154,8 +154,10 @@ nav ul li a{
 }
 .btn1
 {
-    margin-left: 650px;
-    margin-top: -40px;
+    margin-left: 599px;
+    margin-top: -62px;
+    position: absolute;
+    cursor: pointer;
     
 }
 .ending-part
